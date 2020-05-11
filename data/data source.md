@@ -1,0 +1,1 @@
+You can find all of the data used in this project at: [dataset that contains all NYC taxi rides](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
